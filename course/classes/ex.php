@@ -1,6 +1,6 @@
 <?php
 
-class User
+abstract class User
 {
     const ROLE_ADMIN = 'admin_role';
     const ROLE_EDITOR = 'editor_role';
